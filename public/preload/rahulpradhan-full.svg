@@ -1,0 +1,7 @@
+<svg width="450" height="50" viewBox="0 0 450 50" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#99ddcc">
+    <path fill-rule="nonzero" d="M0,0 H85 V52 H0,0 z M4,4 v44 h77 v-44 z"></path>
+    <text x="42" y="37" font-family="monospace" font-size="30" font-weight="bold" text-anchor="middle">RP</text>
+  </g>
+  <text x="100" y="37" font-family="monospace" font-size="32" font-weight="bold" fill="#99ddcc" letter-spacing="1">Rahul Pradhan</text>
+</svg>
